@@ -1,0 +1,94 @@
+/* ====================================================
+	Name : Muhammad Hamza Anees   
+==================================================== */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    border: 1px solid black; 
+    padding:8px ; 
+    width: 40px; 
+    text-align: center;
+    font-weight:bolder;
+}
+
+.atomic_Tangerine {
+     
+    background-color: #FF9966; 
+}
+
+.green {
+    color: green; 
+}
+
+.plum {
+    background-color: #DDA0DD;
+}
+
+.blue {
+    color: #0000FF;
+}
+
+.wisteria {
+    background-color: #90c7ff;
+}
+
+.caribbean {
+    background-color: #c79810;
+}
+
+.anakiwa {
+    background-color: #cdeb8b;
+}
+
+.sidecar {
+    background-color: #ebdca9;
+}
+
+.lavender {
+    background-color: #e6e6fa;
+}
+
+.paris_daisy {
+    background-color: #fff28e;
+}
+
+.brown {
+    color: brown;
+}
+
+.amour {
+    background-color: #fceff0;
+}
+
+.blank {
+    border: 1px solid transparent;
+}
+
+.height {
+    height: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+.periodic_Table {
+    display: inline-block;
+}
+
+h1 {
+    display: inline-block;
+}
+
+header {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    background-color: #FFF95D;
+    height: 95px;
+}
