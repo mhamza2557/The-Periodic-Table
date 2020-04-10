@@ -1,4 +1,4 @@
 # The Periodic Table
  Using HTML and CSS
 
-![](Images/ThePeriodicTable.PNG)
+![](https://github.com/mhamza2557/The-Periodic-Table/blob/master/Images/ThePeriodicTable.png)
